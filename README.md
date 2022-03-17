@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ljx20020909
 - 👀 I’m interested in monny
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on the way .
 - 📫 Reaching me,please call 17815651302. 
 <!---
